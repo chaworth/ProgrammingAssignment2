@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## I really had no way of testing if this is correct
+## so this is my best guess of what we were supposed to do
+# please let me know if this is on target or way off!
 
 ## This function creates a special "matrix" object that can cache it's inverse
 
